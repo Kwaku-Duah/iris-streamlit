@@ -33,5 +33,5 @@ st.text('')
 st.text('')
 st.markdown(
     '`Create by` [thekinping](https://twitter.com/thekinping) | \
-         `Code:` [GitHub](https://www.github/kwaku-duah/iris-streamlit)')
+         `Code:` [GitHub](https://github.com/Kwaku-Duah/iris-streamlit)')
 
